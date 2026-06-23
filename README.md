@@ -1,4 +1,4 @@
-# 안녕하세요,<br>프론트엔드 개발자 곽다현입니다.👋
+# 안녕하세요,<br>곽다현입니다.
 
 사용자 관점에서의 경험 설계와, 그것을 코드로 구체화하는 구현 과정을 중요하게 생각합니다.
 Next.js, React, TypeScript 기반으로 서비스를 만들며, 단순히 화면을 구현하는 데서 끝나지 않고 **상태 구조, 데이터 흐름, 성능, 사용성**까지 함께 고민합니다.
@@ -41,5 +41,5 @@ Next.js, React, TypeScript 기반으로 서비스를 만들며, 단순히 화면
 ```
 
 ## Contact
-Email: gdhonnf@gmail.com
+Email: dahyun.gwak@gmail.com
 
